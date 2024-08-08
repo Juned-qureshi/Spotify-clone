@@ -20,7 +20,7 @@ let songs = [
     {songName: "Plevne(256k)", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
     {songName: "Khwahish__Munawar_Faruqui__Official_Music_Video", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
     {songName: "Kalandar__Munawar_x_Farhan_Khan__Prod_by_Noran_Beatz", filePath: "songs/10.mp3", coverPath: "covers/10.jpg"},
-    {songName: "Warriyo - Mortals (feat. Laura Brehm) | Future Trap", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+  
 ]
 
 songItems.forEach((element, i)=>{
